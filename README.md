@@ -1,1 +1,0 @@
-# medRemind_bot
